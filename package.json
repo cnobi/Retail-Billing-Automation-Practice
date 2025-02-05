@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cnobi/Retail-Billing-Automation-Practice/issues"
   },
-  "homepage": "https://github.com/cnobi/Retail-Billing-Automation-Practice#readme"
+  "homepage": "https://github.com/cnobi/Retail-Billing-Automation-Practice#readme",
+  "devDependencies": {
+    "cypress": "^14.0.1"
+  }
 }
