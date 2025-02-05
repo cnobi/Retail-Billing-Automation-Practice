@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/cnobi/Retail-Billing-Automation-Practice#readme",
   "devDependencies": {
-    "cypress": "^14.0.1"
+    "cypress": "^14.0.1",
+    "eslint-plugin-cypress": "^4.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
   }
 }
