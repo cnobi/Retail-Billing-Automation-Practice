@@ -1,5 +1,7 @@
-describe('template spec', () => {
+import test from "../pageObjects/objects"
+
+describe('Edit Customer Detail', () => {
   it('passes', () => {
-    cy.visit('https://example.cypress.io')
+    test.login('/')
   })
 })
